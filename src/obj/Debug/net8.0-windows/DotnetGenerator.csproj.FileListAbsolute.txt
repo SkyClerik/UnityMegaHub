@@ -1,0 +1,14 @@
+H:\Console\DotnetGenerator\bin\Debug\net8.0-windows\DotnetGenerator.exe
+H:\Console\DotnetGenerator\bin\Debug\net8.0-windows\DotnetGenerator.deps.json
+H:\Console\DotnetGenerator\bin\Debug\net8.0-windows\DotnetGenerator.runtimeconfig.json
+H:\Console\DotnetGenerator\bin\Debug\net8.0-windows\DotnetGenerator.dll
+H:\Console\DotnetGenerator\bin\Debug\net8.0-windows\DotnetGenerator.pdb
+H:\Console\DotnetGenerator\obj\Debug\net8.0-windows\DotnetGenerator.GeneratedMSBuildEditorConfig.editorconfig
+H:\Console\DotnetGenerator\obj\Debug\net8.0-windows\DotnetGenerator.AssemblyInfoInputs.cache
+H:\Console\DotnetGenerator\obj\Debug\net8.0-windows\DotnetGenerator.AssemblyInfo.cs
+H:\Console\DotnetGenerator\obj\Debug\net8.0-windows\DotnetGenerator.csproj.CoreCompileInputs.cache
+H:\Console\DotnetGenerator\obj\Debug\net8.0-windows\DotnetGenerator.dll
+H:\Console\DotnetGenerator\obj\Debug\net8.0-windows\refint\DotnetGenerator.dll
+H:\Console\DotnetGenerator\obj\Debug\net8.0-windows\DotnetGenerator.pdb
+H:\Console\DotnetGenerator\obj\Debug\net8.0-windows\DotnetGenerator.genruntimeconfig.cache
+H:\Console\DotnetGenerator\obj\Debug\net8.0-windows\ref\DotnetGenerator.dll
